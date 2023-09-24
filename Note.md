@@ -1,0 +1,1 @@
+npm启动前：export NODE_OPTIONS=--openssl-legacy-provider 
